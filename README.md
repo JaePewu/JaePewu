@@ -2,11 +2,11 @@
   
   ### HOLA!!!! Soy Jael👋
   
-Soy desarrolladora Front End Jr, desde que era pequeña, siempre he sentido una profunda motivación por la creación artística y he buscado constantemente oportunidades para aprender y desarrollar mi creatividad. Ya sea a través del macramé, la cerámica o el dibujo, he explorado diferentes formas de expresión, y esto ha influido en mi carrera como peluquera/estilista. Haciendo de mí una persona
-autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.
+<p align="left">Soy desarrolladora Front End Jr, desde que era pequeña, siempre he sentido una profunda motivación por la creación artística y he buscado constantemente oportunidades para aprender y desarrollar mi creatividad. Ya sea a través del macramé, la cerámica o el dibujo, he explorado diferentes formas de expresión, y esto ha influido en mi carrera como peluquera/estilista. Haciendo de mí una persona
+autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.</p>
 
   <div align="rigth">
-  <img height="200" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png"  />
+  <img align="right" width="270px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png"  />
   </div>
   
 ###
@@ -22,6 +22,13 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
 
 ###
 ---
+
+<div align="center">
+  
+![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=cobalt&rank_icon=github&show_icons=true)
+
+</div>
+
 <!--
 **JaePewu/JaePewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
