@@ -27,7 +27,7 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
 <div align="center">
   <img align="right" width="250px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png" />
 
-![jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=tokyonight&rank_icon=github&show_icons=true)
+![jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=radical&rank_icon=github&show_icons=true)
   
   <!--<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=jaepewu&theme=cobalt&rank_icon=github&show_icons=true" />-->
 </div>
