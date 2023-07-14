@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Soy desarrolladora Front End Jr, desde que era pequeña, siempre he sentido una profunda motivación
+por la creación artística y he buscado constantemente oportunidades para aprender y desarrollar mi
+creatividad. Ya sea a través del macramé, la cerámica o el dibujo, he explorado diferentes formas 
+de expresión, y esto ha influido en mi carrera como peluquera/estilista. Haciendo de mí una persona
+autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo
+desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he
+aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia 
+final.
+[img de octoJael](octocat.png)
 <!--
 **JaePewu/JaePewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
