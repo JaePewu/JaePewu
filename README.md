@@ -1,12 +1,12 @@
 <div align="center" align-item="center">
   
-  ### HOLA!!!! Soy Jael👋
+  ### ✨HOLA!!!! Soy Jael👋
   
 <p align="left">Soy desarrolladora Front End Jr, desde que era pequeña, siempre he sentido una profunda motivación por la creación artística y he buscado constantemente oportunidades para aprender y desarrollar mi creatividad. Ya sea a través del macramé, la cerámica o el dibujo, he explorado diferentes formas de expresión, y esto ha influido en mi carrera como peluquera/estilista. Haciendo de mí una persona
-autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.</p>
+autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.✨</p>
 
   <div align="rigth">
-  <img align="right" width="270px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png"  />
+  <img align="right" width="420px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png"  />
   </div>
   
 ###
@@ -22,10 +22,51 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
 
 ###
 ---
+<h3 align="left">✨ My Stats :</h3>
 
 <div align="center">
   
 ![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=cobalt&rank_icon=github&show_icons=true)
+
+</div>
+###
+<h3 align="left">✨ Lenguaje y Herramientas ✨</h3>
+
+###
+
+<div align="left">
+
+<p align="left"> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+</a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+</a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36" alt="jest logo"/>
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36"/>
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" > 
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="36" height="36" /> 
+</a> </p>
 
 </div>
 
