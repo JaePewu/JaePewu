@@ -25,7 +25,7 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
 <h3 align="left">✨ My Stats :</h3>
 
 <div align="center">
-  <img align="right" width="400px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png" />
+  <img align="right" width="500px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png" />
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=jaepewu&theme=cobalt&rank_icon=github&show_icons=true" />
 </div>
 
