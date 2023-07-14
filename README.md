@@ -6,7 +6,7 @@
 autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.✨</p>
 
   <div align="rigth">
-  <img align="right" width="420px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png"  />
+  <img align="right" width="400px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png"  />
   </div>
   
 ###
