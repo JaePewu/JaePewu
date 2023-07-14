@@ -29,16 +29,7 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
   <img align="left" <!width="400px" src="https://github-readme-stats.vercel.app/api?username=jaepewu&theme=cobalt&rank_icon=github&show_icons=true" />
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 <h3 align="left">✨ Lenguaje y Herramientas ✨</h3>
 
