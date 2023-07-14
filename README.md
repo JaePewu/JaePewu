@@ -1,4 +1,4 @@
-### Hi there 👋
+### HOLA!!!! 👋
 
 Soy desarrolladora Front End Jr, desde que era pequeña, siempre he sentido una profunda motivación
 por la creación artística y he buscado constantemente oportunidades para aprender y desarrollar mi
@@ -8,7 +8,7 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
 desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he
 aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia 
 final.
-[img de octoJael](octocat.png)
+![img de octoJael](https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png)
 <!--
 **JaePewu/JaePewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
