@@ -24,12 +24,14 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
 ---
 <h3 align="left">✨ My Stats :</h3>
 
-<div align="center">
+<div align="left">
   
 ![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=cobalt&rank_icon=github&show_icons=true)
 
 </div>
+
 ###
+
 <h3 align="left">✨ Lenguaje y Herramientas ✨</h3>
 
 ###
