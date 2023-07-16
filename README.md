@@ -61,7 +61,7 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
     </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36" alt="jest logo" />
 
-  <img src="https://github.com/DeaGatell/DeaGatell/assets/127211939/67264339-5ede-4fb0-8010-f43d5e45cfc7" height="36" alt="react logo"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
   <a href="https://github.com/DeaGatell/DeaGatell/assets/127211939/94af3989-f0ea-4873-b2d7-fbcd5235f8a2" rel="noreferrer">
       <img src="https://github.com/DeaGatell/DeaGatell/assets/127211939/94af3989-f0ea-4873-b2d7-fbcd5235f8a2" width="36" height="36" alt="npm" />
