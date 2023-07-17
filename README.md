@@ -3,12 +3,13 @@
   ### ✨HOLA!!!! Soy Jael👋
   
 <p align="left">Soy desarrolladora Front End Jr, desde que era pequeña, siempre he sentido una profunda motivación por la creación artística y he buscado constantemente oportunidades para aprender y desarrollar mi creatividad. Ya sea a través del macramé, la cerámica o el dibujo, he explorado diferentes formas de expresión, y esto ha influyo en mi carrera como peluquera/estilista. Haciendo de mí una persona
-autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.✨</p>  
+autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.✨</p> 
 
-<!--<div align="rigth">
-  <img align="right" width="400px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png"  />
-  </div>-->
+ 🔭 Actualmente estoy trabajando en Burger API Client.
 
+ <br>
+  
+ 📫 Como contactarme: 
 ###
 
 <div align="center">
