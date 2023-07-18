@@ -71,8 +71,8 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
   </p>
 </div>
 
-<a href="https://github.com/jaepewu/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=data-lovers&theme=tokyonight" />
+<!--<a href="https://github.com/jaepewu/codestats-profile-readme">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=data-lovers&theme=radical" />
 </a>
 
 
