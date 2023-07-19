@@ -71,10 +71,15 @@ autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me 
   </p>
 </div>
 
-<!--<a href="https://github.com/jaepewu/codestats-profile-readme">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=data-lovers&theme=radical" />
+<br>
+
+<a href="https://github.com/jaepewu/codestats-profile-readme">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=data-lovers&theme=radical" />
 </a>
 
+<a href="https://github.com/jaepewu/codestats-profile-readme">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=social-network&theme=radical" />
+</a>
 
 <!--
 **JaePewu/JaePewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
