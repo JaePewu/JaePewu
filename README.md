@@ -1,9 +1,9 @@
 <div align="center" align-item="center">
   
-  # ✨HOLA!!!! Soy Jael👋 
+  # ✨HOLA!!!! Soy Jael✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FA58AC&center=true&multiline=true&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FA58AC&center=true&width=435&lines=Front-End+Developer+%E2%9D%A3%EF%B8%8F;En+busca+de+aprender+m%C3%A1s%F0%9F%A4%AD)](https://git.io/typing-svg)
+
 <p align="left">Soy desarrolladora Front End Jr, desde que era pequeña, siempre he sentido una profunda motivación por la creación artística y he buscado constantemente oportunidades para aprender y desarrollar mi creatividad. Ya sea a través del macramé, la cerámica o el dibujo, he explorado diferentes formas de expresión, y esto ha influyo en mi carrera como peluquera/estilista. Haciendo de mí una persona autodidacta y dispuesta a aprender y crecer profesionalmente. Mi trayectoria me ha permitido no solo desarrollar sitios web amigables, sino también intuitivos y accesibles para los usuarios. Además, he aprendido que trabajar en equipo no solo impulsa el progreso, sino que también mejora la experiencia final.✨</p> 
 
  🔭 Actualmente estoy trabajando en Burger API Client.
