@@ -10,6 +10,10 @@
 
  🌱 Actualmente estoy aprendiendo React y Tailwind.
   
+<br>
+
+### ✨ About me 🤭: 
+
 </div> 
 
  <br>
