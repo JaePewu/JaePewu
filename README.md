@@ -32,7 +32,7 @@
 <h3 align="left">✨ My Stats :</h3>
 
 <div align="center">
-  <img align="right" width="250px" src="https://github.com/JaePewu/BQ-Api-mock/blob/main/resources/images/octocat.png" />
+  <img align="right" width="250px" src="https://github.com/JaePewu/imagenes/blob/main/imagenes/octocat.png" />
 
 ![jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=radical&rank_icon=github&show_icons=true)
   
