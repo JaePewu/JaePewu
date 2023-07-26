@@ -23,8 +23,8 @@
 
 <div align="left">
 ⚡ Fun fact: <br>
-Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la lectura📚, el anime🎏👺 y <br>
-cualquier tipo de peliculas incluidas las de terror 👻👽 </div>
+Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la lectura📚, <br> 
+  el anime🎏👺 y cualquier tipo de peliculas incluidas las de terror 👻👽 </div>
   
 ### 📫 Como contactarme: 
 
