@@ -33,7 +33,7 @@ Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la 
   <a href="https://www.linkedin.com/in/jael-yapur-ch/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"   />
   </a>
-   <a href="https://discord.com/channels/@me">
+   <a href="https://discord.com/channels/@jae.moon">
     <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=586AF7&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
     </a>
 </div>
