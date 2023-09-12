@@ -15,7 +15,7 @@
 
 <div align="left">
   
-  🔭 Actualmente estoy trabajando en Burger API Client. <br>
+  <!--🔭 Actualmente estoy trabajando en Burger API Client. <br>-->
 
  🌱 Actualmente estoy aprendiendo React y Tailwind. <br>
 
