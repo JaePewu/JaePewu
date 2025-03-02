@@ -17,7 +17,7 @@
   
   <!--🔭 Actualmente estoy trabajando en Burger API Client. <br>-->
 
- 🌱 Actualmente estoy aprendiendo React y Tailwind. <br>
+ 🌱 Actualmente esoy adquiriendos más conocimientos. <br>
 
  🤖 Me apasiona la tecnología 👩🏻‍💻 y la innovación.  <br>
   
