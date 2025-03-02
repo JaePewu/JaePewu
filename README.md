@@ -17,7 +17,7 @@
   
   <!--🔭 Actualmente estoy trabajando en Burger API Client. <br>-->
 
- 🌱 Actualmente esoy adquiriendos más conocimientos. <br>
+ 🌱 Actualmente estoy adquiriendos más conocimientos. <br>
 
  🤖 Me apasiona la tecnología 👩🏻‍💻 y la innovación.  <br>
   
