@@ -42,7 +42,7 @@ Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la 
 ###
 ---
 <!--
-<h3 align="left">✨ My Stats :</h3>
+<h3 align="left">✨ My Stats :</h3>-->
 
 <div align="center">
   <img align="right" width="250px" src="https://github.com/JaePewu/imagenes/blob/main/imagenes/octocat.png" />
@@ -94,11 +94,11 @@ Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la 
 <!--
 <a href="https://github.com/jaepewu/codestats-profile-readme">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=data-lovers&theme=radical" />
-</a>
+</a>-->
 <!--
 <a href="https://github.com/jaepewu/codestats-profile-readme">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=social-network&theme=radical" />
-</a>
+</a>-->
 
 <!--
 **JaePewu/JaePewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
