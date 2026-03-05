@@ -90,11 +90,11 @@ Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la 
 </div>
 
 <br>
-
+<!--
 <a href="https://github.com/jaepewu/codestats-profile-readme">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=data-lovers&theme=radical" />
 </a>
-
+<!--
 <a href="https://github.com/jaepewu/codestats-profile-readme">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jaepewu&repo=social-network&theme=radical" />
 </a>
