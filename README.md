@@ -41,6 +41,7 @@ Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la 
 
 ###
 ---
+<!--
 <h3 align="left">✨ My Stats :</h3>
 
 <div align="center">
