@@ -47,7 +47,7 @@ Me encanta la escalada deportiva🧗🏻‍♀️, manualidades🎨, fans de la 
 <div align="center">
   <img align="right" width="250px" src="https://github.com/JaePewu/imagenes/blob/main/imagenes/octocat.png" />
 
-![jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=radical&rank_icon=github&show_icons=true)
+<!--![jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaepewu&theme=radical&rank_icon=github&show_icons=true)-->
   
   <!--<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=jaepewu&theme=cobalt&rank_icon=github&show_icons=true" />-->
 </div>
